@@ -1,0 +1,1 @@
+This project contains the mjpg component and an example of using the this component.
